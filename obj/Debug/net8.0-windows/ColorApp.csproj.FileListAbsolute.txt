@@ -1,0 +1,16 @@
+C:\Users\Jenny Ngo\source\repos\ColorApp\ColorApp\obj\Debug\net8.0-windows\ColorApp.Form1.resources
+C:\Users\Jenny Ngo\source\repos\ColorApp\ColorApp\obj\Debug\net8.0-windows\ColorApp.csproj.GenerateResource.cache
+C:\Users\Jenny Ngo\source\repos\ColorApp\ColorApp\obj\Debug\net8.0-windows\ColorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenny Ngo\source\repos\ColorApp\ColorApp\obj\Debug\net8.0-windows\ColorApp.AssemblyInfoInputs.cache
+C:\Users\Jenny Ngo\source\repos\ColorApp\ColorApp\obj\Debug\net8.0-windows\ColorApp.AssemblyInfo.cs
+C:\Users\Jenny Ngo\source\repos\ColorApp\ColorApp\obj\Debug\net8.0-windows\ColorApp.csproj.CoreCompileInputs.cache
+C:\Users\Jenny Ngo\source\repos\ColorApp\ColorApp\bin\Debug\net8.0-windows\ColorApp.exe
+C:\Users\Jenny Ngo\source\repos\ColorApp\ColorApp\bin\Debug\net8.0-windows\ColorApp.deps.json
+C:\Users\Jenny Ngo\source\repos\ColorApp\ColorApp\bin\Debug\net8.0-windows\ColorApp.runtimeconfig.json
+C:\Users\Jenny Ngo\source\repos\ColorApp\ColorApp\bin\Debug\net8.0-windows\ColorApp.dll
+C:\Users\Jenny Ngo\source\repos\ColorApp\ColorApp\bin\Debug\net8.0-windows\ColorApp.pdb
+C:\Users\Jenny Ngo\source\repos\ColorApp\ColorApp\obj\Debug\net8.0-windows\ColorApp.dll
+C:\Users\Jenny Ngo\source\repos\ColorApp\ColorApp\obj\Debug\net8.0-windows\refint\ColorApp.dll
+C:\Users\Jenny Ngo\source\repos\ColorApp\ColorApp\obj\Debug\net8.0-windows\ColorApp.pdb
+C:\Users\Jenny Ngo\source\repos\ColorApp\ColorApp\obj\Debug\net8.0-windows\ColorApp.genruntimeconfig.cache
+C:\Users\Jenny Ngo\source\repos\ColorApp\ColorApp\obj\Debug\net8.0-windows\ref\ColorApp.dll
